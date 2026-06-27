@@ -28,7 +28,7 @@ Für die Nutzung des Tools müssen Sie **keine** Programmierumgebungen installie
 
 ## 🤖 Transparenz-Hinweis (Vibe-Coding)
 
-Dieses Tool wurde vollständig mittels **Vibe-Coding** (KI-gestützte Entwicklung unter Einsatz moderner Large Language Models wie Gemini/ChatGPT) erstellt. Struktur, UI-Design und die Algorithmen zur Pfadanalyse wurden durch iterative KI-Prompts generiert und verfeinert.
+Dieses Tool wurde vollständig mittels **Vibe-Coding** (KI-gestützte Entwicklung unter Einsatz moderner Large Language Models wie Gemini erstellt. Struktur, UI-Design und die Algorithmen zur Pfadanalyse wurden durch iterative KI-Prompts generiert und verfeinert.
 
 ---
 
